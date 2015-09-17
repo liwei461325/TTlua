@@ -10,7 +10,7 @@ DEBUG_MEM = false
 
 -- load deprecated API
 LOAD_DEPRECATED_API = false
-
+----不让别人修改
 -- load shortcodes API
 LOAD_SHORTCODES_API = true
 
